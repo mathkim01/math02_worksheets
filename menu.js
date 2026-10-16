@@ -14,9 +14,10 @@ const worksheetMenu = [
     ]
   },
   {
-    title: "2. 도형과 측정",
+    title: "2. 명제",
     items: [
-      { title: "삼각형의 내각의 합", file: "activities/03-triangle-angles.html" }
+      { title: "명제의 뜻", file: "activities/proposition-truth-set-worksheet.html" },
+      { title: "조건과 진리집합", file: "activities/truth-set-steps-6-10-worksheet.html" }
     ]
   }
 ];
